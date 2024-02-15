@@ -1,0 +1,2 @@
+print("codigo iniciado\n")
+
